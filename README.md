@@ -53,7 +53,7 @@ services. (Visual Studio 2022)
 - [x] create a data model and use a database service from any cloud service you like
 (preferably Azure + 10 points). Use local services if you cant. // SQL Database is created in Azure. We are using cloud service for saving our data.
 - [x] For API hosting, use a cloud service (+10 points) or local application server service // Azure is used for API hosting. Check: https://metehanairline.azurewebsites.net/swagger/index.html
-DELIVERABLES
+### DELIVERABLES
 - [x] A readme document in your github code repo that has
 - [x] code link to source code of the project i.e github, bitbucket
 - [x] your design, assumptions, and issues you encountered.
