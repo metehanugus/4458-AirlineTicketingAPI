@@ -7,6 +7,9 @@ This project entails the development of a RESTful API for a fictitious airline c
 ### Source Code Link
 https://github.com/metehanugus/4458-AirlineTicketingAPI
 
+### AZURE Web Page
+https://metehanairline.azurewebsites.net/swagger/index.html (With SWAGGER UI) 
+
 ### Project Design
 **Architecture:** 
 The project is structured using the ASP.NET Core framework, harnessing MVC (Model-View-Controller) architecture. This approach ensures separation of concerns, with distinct layers handling data (Models), business logic (Services), and user interactions (Controllers).
