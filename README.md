@@ -39,3 +39,24 @@ These entities are interconnected, forming the backbone of the airline ticketing
 
 ### Conclusion
 This project has been a comprehensive exercise in applying theoretical knowledge to a practical scenario. It challenged my understanding of API development, data modeling, and cloud-based deployment, providing invaluable insights into real-world application development. The experience has significantly bolstered my skills in software engineering and data management.
+
+### TASK LIST
+- [x] All REST services must be versionable
+In the project, the REST services have been implemented with versioning in mind, as evidenced by the use of the [ApiVersion("1.0")] annotation in the controller classes (FlightController.cs and UsersController.cs). This annotation is a clear indicator that the API endpoints in these controllers are designed to be versionable.
+- [x] At least one service must support paging
+- [ ] For authentication, JWT or Oauth can be implemented. Please check the examples from
+class
+- [ ] Must have Swagger UI or document
+- [ ] You can choose any development environment you like as long as they support REST
+services.
+- [ ] You can make assumptions as long as you document them
+- [ ] create a data model and use a database service from any cloud service you like
+(preferably Azure + 10 points). Use local services if you cant
+- [ ] For API hosting, use a cloud service (+10 points) or local application server service
+DELIVERABLES
+- [ ] A readme document in your github code repo that has
+- [ ] code link to source code of the project i.e github, bitbucket
+- [ ] your design, assumptions, and issues you encountered.
+- [ ] Data model (i.e an ER)
+- [ ] Include a link to a short video presenting your project (+5 points if you store
+video on a cloud storage service)
