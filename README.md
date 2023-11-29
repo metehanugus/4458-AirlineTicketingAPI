@@ -35,7 +35,12 @@ These entities are interconnected, forming the backbone of the airline ticketing
 
 #### Video Presentation
 > [!NOTE]
-> This section will be uploaded.
+> Drive link: https://drive.google.com/file/d/1Kn0D6iSx8_9z1rYewfydsu8CF0iQq5BJ/view?usp=sharing
+> 
+
+https://github.com/metehanugus/4458-AirlineTicketingAPI/assets/65510727/9b887ab2-05be-40f6-9d16-1ed8265252d8
+
+
 
 ### Conclusion
 This project has been a comprehensive exercise in applying theoretical knowledge to a practical scenario. It challenged my understanding of API development, data modeling, and cloud-based deployment, providing invaluable insights into real-world application development. The experience has significantly bolstered my skills in software engineering and data management.
